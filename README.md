@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/tonioke_m" target="blank"><img src="https://img.shields.io/twitter/follow/tonioke_m?logo=twitter&style=for-the-badge" alt="tonioke_m" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce Platform**
+- 🔭 I’m currently working on **Bank Application**
 
-- 🌱 I’m currently learning **Python, React JS, Java.**
+- 🌱 I’m currently learning **Full Stack with MERN**
 
-- 👯 I’m looking to collaborate on **Web development frameworks (like React, Vue.js, Django), E-commerce app**
+- 👯 I’m looking to collaborate on **Web development frameworks (like React, Vue.js, Django)**
 
 - 💬 Ask me about **React, HTML5, JavaScript, C++, C etc.**
 
