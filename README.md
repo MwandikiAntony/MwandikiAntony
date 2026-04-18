@@ -1,10 +1,10 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/MwandikiAntony)
 
-<h1 align="center">Hi 👋, I'm Antony Mwandiki</h1>
+<h1>Hi 👋, I'm Antony Mwandiki</h1>
 
-<h3 align="center">Full Stack JavaScript Developer | AI Data Trainer | Code Review & QA Specialist from Kenya</h3>
+<h3>Full Stack JavaScript Developer | AI Data Trainer | Code Review & QA Specialist from Kenya</h3>
 
-<p align="center">
+<p >
   <img src="https://komarev.com/ghpvc/?username=mwandikiantony&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
@@ -62,15 +62,20 @@
 
 ##  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mwandikiantony&show_icons=true&theme=default" height="170"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=mwandikiantony&show_icons=true&theme=default" height="170"/>
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwandikiantony" height="170"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mwandikiantony" height="170"/>
-</p>
+<br/>
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mwandikiantony&layout=compact" height="150"/>
 </p>
 
