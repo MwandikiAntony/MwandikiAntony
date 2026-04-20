@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Antony Mwandiki</h1>
 
-<h3>Full Stack JavaScript Developer | AI Data Trainer | Code Review & QA Specialist from Kenya</h3>
+<h3>Founder @ IsoMount Tech Collective | Scaling African Developers Globally | Full-Stack Engineer</h3>
 
 <p >
   <img src="https://komarev.com/ghpvc/?username=mwandikiantony&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
