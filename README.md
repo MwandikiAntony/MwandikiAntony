@@ -1,5 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/MwandikiAntony)
-
 <h1>Hi 👋, I'm Antony Mwandiki</h1>
 
 <h3>Full Stack JavaScript Developer | AI Data Trainer | Code Review & QA Specialist from Kenya</h3>
@@ -84,11 +82,7 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/IsoMount-Tech-Collective" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://twitter.com/isomounttech" target="_blank">
+   <a href="https://twitter.com/isomounttech" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 
